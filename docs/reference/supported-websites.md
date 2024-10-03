@@ -74,5 +74,6 @@ Supported domains via Real Debrid include `mega.nz`, `rapidgator`, `google drive
 | LeakedModels                | Threads: `/forum/threads/...`                                     |
 | Nudostar                    | Threads: `/forum/threads/...`                                     |
 | Reddit                      | User: `/user/...` User: `/u/...` Subreddit: `/r/...` Direct Links |
+| SimpCity                    | Threads: `/threads/...`                                           |
 | Forums.SocialMediaGirls.com | Threads: `/threads/...`                                           |
 | XBunker                     | Threads: `/threads/...`                                           |
