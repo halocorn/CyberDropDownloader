@@ -49,5 +49,6 @@ description: These are the websites supported by Cyberdrop-DL
 | LeakedModels                | Threads: `/forum/threads/...`                                     |
 | Nudostar                    | Threads: `/forum/threads/...`                                     |
 | Reddit                      | User: `/user/...` User: `/u/...` Subreddit: `/r/...` Direct Links |
+| SimpCity                    | Threads: `/threads/...`                                           |
 | Forums.SocialMediaGirls.com | Threads: `/threads/...`                                           |
 | XBunker                     | Threads: `/threads/...`                                           |
