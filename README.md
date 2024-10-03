@@ -23,7 +23,62 @@ Brand new and improved! Cyberdrop-DL now has an updated paint job, fantastic new
 See the [list of supported sites](https://script-ware.gitbook.io/cyberdrop-dl/reference/supported-websites) on the official wiki
 
 
-## Quickstart
+<details>
+  <summary><h2>Supported Sites</h2></summary>
+  
+  - bunkr
+  - bunkrr
+  - celebforum
+  - coomer
+  - cyberdrop
+  - cyberfile
+  - e-hentai
+  - erome
+  - fapello
+  - f95zone
+  - gofile
+  - hotpic
+  - ibb.co
+  - imageban
+  - imgbox
+  - imgur
+  - img.kiwi
+  - jpg.church
+  - jpg.homes
+  - jpg.fish
+  - jpg.fishing
+  - jpg.pet
+  - jpeg.pet
+  - jpg1.su
+  - jpg2.su
+  - jpg3.su
+  - jpg4.su
+  - jpg5.su
+  - host.church
+  - kemono
+  - leakedmodels
+  - mediafire
+  - nudostar.com
+  - nudostar.tv
+  - omegascans
+  - pimpandhost
+  - pixeldrain
+  - postimg
+  - realbooru
+  - reddit
+  - redd.it
+  - redgifs
+  - rule34.xxx
+  - rule34.xyz
+  - rule34vault
+  - saint
+  - scrolller
+  - simpcity
+  - socialmediagirls
+  - toonily
+  - xbunker
+  - xbunkr
+</details>
 
 Follow the [quickstart guide](https://script-ware.gitbook.io/cyberdrop-dl/quick-start) for instructions on how to install and configure Cyberdrop-DL
 
