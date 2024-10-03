@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cyberdrop-dl-patched"
+name = "cyberdrop-dl-patched-gk"
 version = "5.7.2"
 description = "Bulk downloader for multiple file hosts"
 authors = ["Jacob B <admin@script-ware.net>"]
@@ -37,7 +37,7 @@ jeepney =   [{platform = "linux", version = "^0.8.0"},{platform = "bsd", version
 xxhash = "^3.5.0"
 
 [tool.poetry.scripts]
-cyberdrop-dl = "cyberdrop_dl.main:main"
+cyberdrop-dl-gk = "cyberdrop_dl.main:main"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^4.0.1"
