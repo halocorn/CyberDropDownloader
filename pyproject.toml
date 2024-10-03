@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cyberdrop-dl-patched"
+name = "cyberdrop-dl-patched-gk"
 version = "5.6.42"
 description = "Bulk downloader for multiple file hosts"
 authors = ["Jacob B <admin@script-ware.net>"]
@@ -34,7 +34,7 @@ send2trash = "^1.8.3"
 arrow = "^1.3.0"
 
 [tool.poetry.scripts]
-cyberdrop-dl = "cyberdrop_dl.main:main"
+cyberdrop-dl-gk = "cyberdrop_dl.main:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
