@@ -1,2 +1,2 @@
 import importlib.metadata
-__version__ = importlib.metadata.version('cyberdrop-dl-patched')
+__version__ = importlib.metadata.version('cyberdrop-dl-patched-gk')
