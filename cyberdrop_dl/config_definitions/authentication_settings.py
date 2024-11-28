@@ -16,7 +16,7 @@ class ForumAuth(BaseModel):
     nudostar_xf_user_cookie: str = ""
     nudostar_username: str = ""
     nudostar_password: str = ""
-    simpcity_xf_user_cookie: str = ""
+    simpcity.su_xf_user_cookie: str = ""
     simpcity_username: str = ""
     simpcity_password: str = ""
     socialmediagirls_xf_user_cookie: str = ""
