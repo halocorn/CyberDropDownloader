@@ -58,7 +58,7 @@ class SupportedDomains:
         "rule34vault",
         "saint",
         "scrolller",
-        "simpcity",
+        "simpcity.su",
         "socialmediagirls",
         "toonily",
         "tokyomotion.net",
@@ -82,7 +82,7 @@ class SupportedDomains:
         "forums.socialmediagirls.com": "socialmediagirls",
         "leakedmodels.com": "leakedmodels",
         "nudostar.com": "nudostar",
-        "simpcity.su": "simpcity",
+        "simpcity.su": "simpcity.su",
         "xbunker.nu": "xbunker",
     }
 
