@@ -58,6 +58,7 @@ class SupportedDomains:
         "rule34vault",
         "saint",
         "scrolller",
+        "simpcity",
         "socialmediagirls",
         "toonily",
         "tokyomotion.net",
