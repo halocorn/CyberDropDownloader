@@ -13,7 +13,7 @@ from yarl import URL
 from cyberdrop_dl import __version__ as current_version
 from cyberdrop_dl.clients.errors import JDownloaderError
 from cyberdrop_dl.downloader.downloader import Downloader
-from cyberdrop_dl.scraper import ALL_CRAWLERS, DEBUG_CRAWLERS
+from cyberdrop_dl.scraper import ALL_CRAWLERS
 from cyberdrop_dl.scraper.filters import (
     has_valid_extension,
     is_in_domain_list,
@@ -50,8 +50,6 @@ class ScrapeMapper:
         """Starts all scrapers."""
         crawlers = ALL_CRAWLERS
         is_testing = next((tag for tag in PRERELEASE_TAGS if tag in current_version), False)
-        if not is_testing:
-            crawlers -= DEBUG_CRAWLERS
 
         for crawler in crawlers:
             if not crawler.SUPPORTED_SITES:

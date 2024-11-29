@@ -49,4 +49,3 @@ if TYPE_CHECKING:
     from cyberdrop_dl.scraper.crawler import Crawler
 
 ALL_CRAWLERS: set[type[Crawler]] = {crawler for name, crawler in globals().items() if "Crawler" in name}
-DEBUG_CRAWLERS = {SimpCityCrawler}
