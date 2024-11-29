@@ -35,7 +35,7 @@ def error_handling_wrapper(func: Callable) -> None:
     """Wrapper handles errors for url scraping."""
 
     @wraps(func)
-    async def wrapper(self: Crawler, *args, **kwargs):
+    async def wrapper(self: *args, **kwargs):
         link = args[0] if isinstance(args[0], URL) else args[0].url
         origin = exc_info = None
         try:
