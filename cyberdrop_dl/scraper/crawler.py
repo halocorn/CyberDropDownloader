@@ -154,7 +154,7 @@ class Crawler(ABC):
 
         return skip
 
-    def check_post_number(self, post_number: int, current_post_number: int) -> tuple[bool, bool]:
+    def check_post_number(self, post_number: int, current_post_number: int) -> [bool, bool]:
         """Checks if the program should scrape the current post."""
         """Returns (scrape_post, continue_scraping)"""
         scrape_single_forum_post = self.manager.config_manager.settings_data.download_options.scrape_single_forum_post
